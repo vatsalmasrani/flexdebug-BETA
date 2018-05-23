@@ -7,7 +7,7 @@ language reference: python C++ java
 
 usage:
 
-DbgStub("directory") note : in directory string "\" double back-slashes are mandatory along with valid path of executable
+DbgStub("directory") note : in directory string "\\" double back-slashes are mandatory along with valid path of executable
 
 Results: it will restart process after crash 3 text files will be created for
 infomation on crash: 
